@@ -1000,4 +1000,4 @@ byki.my/
 
 ---
 
-*BYKI.my Website Blueprint v1.0 · © 2026 Bengkel Onex*
+*BYKI.my Website Blueprint v1.0 · © 2026 One X Transmission*

@@ -47,4 +47,4 @@
 
 ---
 
-*BYKI Library v1.0 · © 2026 Bengkel Onex · byki.my*
+*BYKI Library v1.0 · © 2026 One X Transmission · byki.my*

@@ -1017,4 +1017,4 @@ Every article optimized for AI search extraction:
 
 ---
 
-*BYKI.my SEO Article Plan v1.0 · © 2026 Bengkel Onex*
+*BYKI.my SEO Article Plan v1.0 · © 2026 One X Transmission*

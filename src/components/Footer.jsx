@@ -36,7 +36,7 @@ export default function Footer() {
       </div>
 
       <div className="footer__bottom">
-        <p>&copy; {new Date().getFullYear()} Bengkel Onex &middot; BYKI. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} One X Transmission &middot; BYKI. All rights reserved.</p>
         <p>Shah Alam, Selangor, Malaysia</p>
       </div>
     </footer>

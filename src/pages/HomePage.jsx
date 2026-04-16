@@ -165,11 +165,11 @@ export default function HomePage() {
       <section className="section section--alt">
         <div className="section__inner">
           <div className="workshop">
-            <img src="/brand/bengkel-onex-byki.png" alt="Bengkel Onex — BYKI Diagnostic Hub" className="workshop__img" />
+            <img src="/brand/bengkel-onex-byki.png" alt="One X Transmission — BYKI Diagnostic Hub" className="workshop__img" />
             <div className="workshop__body">
-              <h2 className="section__title">Built at the workshop, for the workshop</h2>
+              <h2 className="section__title">Built at a real workshop</h2>
               <p>
-                BYKI was developed by Bengkel Onex, a diagnostic and transmission specialist 
+                BYKI was developed by One X Transmission, a diagnostic and transmission specialist
                 workshop in Shah Alam, Selangor. Every feature is informed by real-world 
                 workshop experience — not theoretical engineering.
               </p>
@@ -177,7 +177,7 @@ export default function HomePage() {
                 When your scan reveals something that needs professional attention, BYKI 
                 connects you directly to expert technicians who understand your report.
               </p>
-              <Link to="/about" className="feature__link">About Bengkel Onex</Link>
+              <Link to="/about" className="feature__link">About One X Transmission</Link>
             </div>
           </div>
         </div>

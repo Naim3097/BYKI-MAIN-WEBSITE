@@ -9,7 +9,7 @@ export default function AboutPage() {
           <div className="page-hero__text">
             <h1 className="page-hero__title">About BYKI</h1>
             <p className="page-hero__sub">
-              Built at Bengkel Onex in Shah Alam — a diagnostic and transmission 
+              Built at One X Transmission in Shah Alam — a diagnostic and transmission 
               specialist workshop where every feature is tested on real vehicles.
             </p>
           </div>
@@ -34,20 +34,20 @@ export default function AboutPage() {
           <p>
             Every feature in BYKI comes from real workshop experience. The health scoring 
             methodology, the fault code explanations, the oil recommendations — all developed 
-            and validated at Bengkel Onex on real customer vehicles before they reach the platform.
+            and validated at One X Transmission on real customer vehicles before they reach the platform.
           </p>
         </div>
       </section>
 
-      {/* Bengkel Onex */}
+      {/* One X Transmission */}
       <section className="section section--alt">
         <div className="section__inner">
           <div className="about-workshop">
-            <img src="/brand/bengkel-onex-byki.png" alt="Bengkel Onex — BYKI Diagnostic & Tech Hub" className="about-workshop__img" />
+            <img src="/brand/bengkel-onex-byki.png" alt="One X Transmission — BYKI Diagnostic & Tech Hub" className="about-workshop__img" />
             <div className="about-workshop__body">
-              <h2 className="section__title">Bengkel Onex</h2>
+              <h2 className="section__title">One X Transmission</h2>
               <p>
-                Bengkel Onex is a diagnostic and transmission specialist workshop located 
+                One X Transmission is a diagnostic and transmission specialist workshop located 
                 in Shah Alam, Selangor. Specialising in advanced diagnostics, automatic 
                 transmission rebuilds, and preventive maintenance for Malaysian vehicles.
               </p>
